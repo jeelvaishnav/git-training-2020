@@ -9,3 +9,9 @@ Trainers :
 3. Avaysu Bhatia
 4. Vinit Kadam
 5. Abhishek Surve
+
+# Introductions
+
+## Jeel
+
+Hi, I am Jeel. I am a SDE in Auto-Opt Team.
